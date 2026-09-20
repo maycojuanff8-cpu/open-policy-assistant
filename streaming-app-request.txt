@@ -1,0 +1,1 @@
+Quero criar um aplicativo de streaming com uma interface moderna, inspirado na experiência do site CineJoy, usando apenas filmes e séries que tenhamos autorização para disponibilizar. Quero catálogo, busca, categorias, página de detalhes, reprodução de vídeos autorizados e um design responsivo para celular e PC.
