@@ -1,1 +1,3 @@
 Quero criar um aplicativo de streaming estilo o CineJoy, com uma interface moderna e fácil de usar. Quero catálogo de filmes e séries autorizados, busca, categorias, página de detalhes, capas, sinopses, filtros e reprodução de vídeos que tenhamos autorização para disponibilizar. O aplicativo deve ser responsivo e funcionar bem no celular e no PC.
+
+Também quero um menu/guia de navegação completo, com uma área de conta onde o usuário possa criar sua própria conta, fazer login e gerenciar seu perfil.
